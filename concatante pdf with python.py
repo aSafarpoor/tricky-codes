@@ -1,3 +1,8 @@
+'''
+In new version of PyPDF2:
+There is PdfMerger, PdfReader instead of PdfFileMerger, PdfFileReader
+'''
+
 # from PyPDF2 import PdfFileMerger, PdfFileReader
 
 # filename1 = 'nlp-lec-07.pdf' 
